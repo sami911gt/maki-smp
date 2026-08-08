@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "forzsmp.joinmc.world",
-    "port": 19237,
+    "ip": "maki_smp.aternos.me",
+    "port": 16986,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 3,
       "messages": [
         "I'm a regular player",
-        "I love forz!",
+        "I am a bot",
         "I like to play Minecraft!"
       ]
     },
